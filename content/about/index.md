@@ -1,3 +1,5 @@
+ <! -- This is your about page! Replace the text at the end with some info about you or your website for your site visitors -->
+
 ---
 layout: layouts/base.njk
 eleventyNavigation:
