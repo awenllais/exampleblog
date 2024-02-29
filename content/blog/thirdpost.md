@@ -1,7 +1,6 @@
 ---
 title: This is my third post.
-description: This is a post on My Blog about win-win survival strategies.
-date: 2018-08-24
+description: This is yet another post on my blog
 tags:
   - second tag
   - posts with two tags
@@ -12,7 +11,7 @@ Leverage agile frameworks to provide a robust synopsis for high level overviews.
 
 ### Styled (with Syntax)
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Etiam eget eleifend odio, sed porttitor dui. Etiam nunc nisl, posuere sed arcu nec, posuere molestie elit. Maecenas pulvinar tellus at fermentum semper. Sed nunc felis, luctus dignissim metus eu, ullamcorper porttitor ex.
 
 ```js
 // this is a command
@@ -27,7 +26,7 @@ console.log('Test');
 
 ### Unstyled
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Vivamus tristique dolor id massa cursus, pharetra euismod urna dapibus. In non diam lobortis, tristique eros in, facilisis odio. Etiam arcu tellus, scelerisque id bibendum eget, eleifend at libero. 
 
 ```
 // this is a command
@@ -42,4 +41,4 @@ console.log('Test');
 
 ## Section Header
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+Mauris rutrum dolor mi, nec finibus nibh dapibus quis. Aenean convallis ut libero ut condimentum. Aenean luctus purus eget est bibendum, at sollicitudin massa pulvinar. Phasellus semper nibh vel maximus egestas. Vestibulum maximus porttitor felis quis luctus.
